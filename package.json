@@ -1,0 +1,26 @@
+{
+  "name": "firstnode",
+  "version": "0.0.1",
+  "description": "First node.js project with simplon Lyon promo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaminaBoghossian/firstnode.git"
+  },
+  "keywords": [
+    "Simplon.co",
+    "Node.js"
+  ],
+  "author": "Yamina Boghossian <yamina.boghossian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaminaBoghossian/firstnode/issues"
+  },
+  "homepage": "https://github.com/YaminaBoghossian/firstnode#readme",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
+}
